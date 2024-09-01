@@ -3,7 +3,7 @@
 
 ### 준비
 
-- [이 페이지](https://www.jetbrains.com/shop/eform/students)에서 `IntelliJ`의 교육용 라이선스를 발급받는다.
+- [이 페이지](https://www.jetbrains.com/shop/eform/students)에서 `IntelliJ`의 교육용 라이선스를 발급받는다. ( `@hanyang.ac.kr` 메일을 사용해야 한다. )
 - [`IntelliJ`](https://www.jetbrains.com/ko-kr/idea/download/)를 개인 컴퓨터에 설치한다. (개인 컴퓨터가 없는 학생은 실습실 PC에 설치해서 진행하고, 추후 개인 컴퓨터에 설치)
 - 이론 시간에 시연한 `Hello, World!` 애플리케이션을 강의 노트에 기술한대로 똑같이 따라서 작성하고 실행하여 문제가 없는지 확인한다.
 
